@@ -6,7 +6,7 @@
         {{ name }}
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        Ambercond Project
       </h2>
       <div class="links">
         <button v-on:click="changeMessage" class="button--green">Documentation</button>
