@@ -2,6 +2,9 @@
   <section class="container">
     <div>
       <logo/>
+      <div data-netlify-identity-menu></div>
+
+  <div data-netlify-identity-button>Login with Netlify Identity</div>
       <h1 class="title">
         {{ name }}
       </h1>
